@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 110px;
+}
+.container{
+    width: 650px;
+    height: 400px;
+    margin: auto;
+    margin-top: 44px;
+    border: 3px solid black;
+    background-color: gold;
+    border-radius: 30px;
+}
+.btn{
+    border: 3px solid gray;
+    border-radius: 122px;
+    margin: 0 248px;
+    padding: 16px;
+}
+#qts{
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+#auth{
+    text-align: right;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.829);
+    margin-right: 140px;
+}
